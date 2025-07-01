@@ -57,3 +57,6 @@ Based on the above analysis:
 2) Upon Evaluation of risks associated with the purpose of flight, air race/show emerged as the activity with highest fatality rate, this activity should be therefore be avoided when the company ventures into the new aviation business
 
 3) On states operational risks, states with high fatality rates are unknown, this requires improvement on data collection when the incidents occur to inform in decision making
+
+# Dashboard link
+https://public.tableau.com/app/profile/sharlene.ateyo/viz/aircraftsafetyriskdashboard/AircraftsafetyRiskDashboard?publish=yes
